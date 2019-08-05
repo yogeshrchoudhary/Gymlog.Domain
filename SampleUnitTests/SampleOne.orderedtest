@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="sampleone" storage="c:\yogesh\my-samples\web api\gymlog.domain\sampleunittests\sampleone.orderedtest" id="be65df42-3e65-4cd4-b323-8f8e45adb056" continueAfterFailure="true" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="e0c20a1e-9220-cea1-149e-88ac62e5089a" name="PahelaTest" storage="bin\debug\sampleunittests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="ed535bf3-edd2-58da-49c9-8bdde79f6be0" name="TeesraTest" storage="bin\debug\sampleunittests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="6488f6c8-1b9d-5fd8-f32c-a5c19e7e9f6a" name="DoosraTest" storage="bin\debug\sampleunittests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
